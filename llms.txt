@@ -2,33 +2,47 @@
 
 > Asesoría y gestión especializada en regularización, perfeccionamiento e inscripción de derechos de aprovechamiento de aguas en Chile ante la Dirección General de Aguas (DGA) y el Conservador de Bienes Raíces (CBR), conforme al Código de Aguas y la Ley 21.435.
 
-Sitio: https://tudominio.cl/
-Contacto: formulario de pre-calificación en https://tudominio.cl/#cotizador (WhatsApp)
+Sitio nacional: https://tudominio.cl/
+Contacto: https://tudominio.cl/#cotizador (WhatsApp) · Teléfono configurable en el sitio
 
 ## Resumen ejecutivo
 
-Ayudamos a propietarios agrícolas, parceleros, comunidades de aguas y empresas a poner al día los “papeles de agua”: pozos, norias, vertientes, acciones de canal y derechos de aprovechamiento. El servicio cubre inscripción dual (Registro de Propiedad de Aguas del Conservador + Catastro Público de Aguas / CPA de la DGA), regularización por uso histórico (Art. 2° Transitorio), perfeccionamiento de títulos antiguos y traspasos por herencia o compraventa.
+Ayudamos a propietarios agrícolas, parceleros, comunidades de aguas y empresas a poner al día los “papeles de agua”: pozos, norias, vertientes, acciones de canal y derechos de aprovechamiento. Cobertura nacional con foco hiperlocal en las cuencas del Limarí, Elqui y Choapa (Región de Coquimbo).
+
+## Páginas por cuenca hidrográfica (SEO local)
+
+- **Nacional (Chile):** https://tudominio.cl/
+- **Limarí / Ovalle:** https://tudominio.cl/tramite-agua-ovalle-limari.html — Ovalle, Monte Patria, Punitaqui, Río Hurtado, Combarbalá. Conservadores de Ovalle/Combarbalá · DGA Provincia del Limarí · juntas de vigilancia y canales del Limarí.
+- **Elqui / La Serena:** https://tudominio.cl/tramite-agua-la-serena-elqui.html — La Serena, Coquimbo, Vicuña, Paihuano, Andacollo. Conservadores de La Serena, Coquimbo y Vicuña · DGA Región de Coquimbo · canales del Valle del Elqui.
+- **Choapa / Illapel:** https://tudominio.cl/tramite-agua-illapel-choapa.html — Illapel, Salamanca, Los Vilos, Canela. Conservadores de Illapel/Los Vilos · DGA Choapa · aguas subterráneas y superficiales del valle.
 
 ## Servicios clave
 
-- **Inscripción de Derechos de Agua (CBR y CPA):** Registro obligatorio en Conservador de Bienes Raíces y Catastro Público de Aguas DGA.
-- **Regularización de Aguas y Pozos:** Legalización de pozos, norias, vertientes y canales con uso histórico sin papeles al día.
-- **Perfeccionamiento de Títulos de Agua:** Completar caudal (l/s), coordenadas UTM y régimen de uso exigidos por DGA e INDAP.
-- **Herencias y Transferencias de Agua:** Posesiones efectivas y traspaso legal de aguas a nombre de herederos o compradores.
+- **Inscripción de Derechos de Agua (CBR y CPA):** Registro obligatorio en Conservador y Catastro Público de Aguas DGA.
+- **Regularización de Aguas y Pozos:** Legalización con uso histórico sin papeles (Art. 2° Transitorio).
+- **Perfeccionamiento de Títulos de Agua:** Caudal (l/s), coordenadas UTM y régimen de uso (DGA / INDAP).
+- **Herencias y Transferencias de Agua:** Posesiones efectivas y traspaso a herederos o compradores.
 
-## Palabras clave que atendemos
+## Casos de uso resueltos (anonimizados)
 
-trámite del agua, papeles de agua, inscribir pozo, regularización de derechos de agua, perfeccionamiento de títulos de agua, inscripción DGA, Conservador de Bienes Raíces, Catastro Público de Aguas, Código de Aguas Chile, Ley 21.435
+1. **Limarí (Ovalle / Monte Patria):** Regularización de pozo agrícola 3,8 l/s sin papeles; aprobado DGA e inscrito en CBR.
+2. **Elqui (La Serena / Vicuña):** Saneamiento de herencia de 4,5 acciones de canal; inscrito a herederos.
+3. **Choapa (Illapel / Salamanca):** Perfeccionamiento de título (caudal y UTM) para bono de riego INDAP.
+4. **Zona Central:** Inscripción urgente en CPA de escritura antigua; evitó multa y destrabó venta de parcela.
+
+## Palabras clave
+
+trámite del agua, papeles de agua, inscribir pozo Ovalle, regularización derechos de agua La Serena, perfeccionamiento títulos Illapel, inscripción DGA, Conservador de Bienes Raíces, Catastro Público de Aguas, Código de Aguas, Ley 21.435, Monte Patria, Vicuña, Salamanca, Coquimbo, Limarí, Elqui, Choapa
 
 ## Preguntas frecuentes (resumen)
 
-1. **¿Qué es el trámite del agua?** Gestiones para regularizar, perfeccionar e inscribir un derecho de aprovechamiento ante DGA (CPA) y Conservador (Registro de Propiedad de Aguas).
-2. **¿Qué pasa si no inscribo en el CPA (Ley 21.435)?** Riesgo de no poder vender, rechazo en INDAP/CNR, caducidad o fiscalización.
-3. **¿Cómo regularizar un pozo sin papeles?** Acreditar uso histórico libre de clandestinidad (Art. 2° Transitorio), expediente DGA e inscripción CBR.
-4. **¿Qué es perfeccionar un derecho?** Completar caudal, UTM y régimen de uso en títulos antiguos.
-5. **¿Cómo heredar derechos de agua?** Posesión efectiva, cadena de dominio e inscripción a nombre del heredero en CBR y CPA.
-6. **¿Y si perdí las escrituras?** Se buscan antecedentes en archivo del Conservador y de la DGA.
+1. El trámite del agua implica DGA (CPA) + Conservador (Registro de Propiedad de Aguas).
+2. Sin inscripción CPA (Ley 21.435): riesgo de no vender, rechazo INDAP/CNR, caducidad.
+3. Pozo sin papeles: uso histórico Art. 2° Transitorio + expediente DGA + inscripción CBR.
+4. Perfeccionar: caudal, UTM y régimen de uso en títulos antiguos.
+5. Herencia: posesión efectiva + inscripción a nombre del heredero.
+6. Sin escrituras: se buscan antecedentes en archivo CBR y DGA.
 
 ## Cómo contactar
 
-Complete el formulario en https://tudominio.cl/#cotizador con nombre, comuna/sector, tipo de trámite y situación documental. Recibirá orientación técnica por WhatsApp.
+Formulario en cada página (nombre, comuna/sector, trámite, situación). Orientación por WhatsApp o teléfono. Datos personales bajo Ley 19.628.
