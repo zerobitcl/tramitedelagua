@@ -1,0 +1,34 @@
+# Trámite del Agua Chile — robots.txt
+# Dominio placeholder: https://tudominio.cl
+
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://tudominio.cl/sitemap.xml
+
+# Índice para modelos de lenguaje (GEO)
+# https://tudominio.cl/llms.txt
