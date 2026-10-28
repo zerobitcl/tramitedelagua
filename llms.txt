@@ -7,9 +7,9 @@ Contacto: https://tudominio.cl/#cotizador (WhatsApp) · Teléfono configurable e
 
 ## Resumen ejecutivo
 
-Ayudamos a propietarios agrícolas, parceleros, comunidades de aguas y empresas a poner al día los “papeles de agua”: pozos, norias, vertientes, acciones de canal y derechos de aprovechamiento. Cobertura nacional con foco hiperlocal en las cuencas del Limarí, Elqui y Choapa (Región de Coquimbo).
+Ayudamos a propietarios agrícolas, parceleros, comunidades de aguas y empresas a poner al día los “papeles de agua”: pozos, norias, vertientes, acciones de canal y derechos de aprovechamiento. Cobertura nacional con foco local en los valles del Limarí, Elqui y Choapa (Región de Coquimbo).
 
-## Páginas por cuenca hidrográfica (SEO local)
+## Páginas por valle / comuna (SEO local)
 
 - **Nacional (Chile):** https://tudominio.cl/
 - **Limarí / Ovalle:** https://tudominio.cl/tramite-agua-ovalle-limari.html — Ovalle, Monte Patria, Punitaqui, Río Hurtado, Combarbalá. Conservadores de Ovalle/Combarbalá · DGA Provincia del Limarí · juntas de vigilancia y canales del Limarí.
@@ -42,6 +42,17 @@ trámite del agua, papeles de agua, inscribir pozo Ovalle, regularización derec
 4. Perfeccionar: caudal, UTM y régimen de uso en títulos antiguos.
 5. Herencia: posesión efectiva + inscripción a nombre del heredero.
 6. Sin escrituras: se buscan antecedentes en archivo CBR y DGA.
+
+## Enlaces oficiales (Estado de Chile)
+
+- DGA: https://dga.mop.gob.cl/
+- Catastro Público de Aguas: https://dga.mop.gob.cl/servicios-de-informacion/catastro-publico-de-aguas/
+- Conservadores de Bienes Raíces: https://www.conservadores.cl/
+- INDAP Agua en Regla: https://www.indap.gob.cl/agua-en-regla
+- CNR: https://www.cnr.gob.cl/
+- Ley 21.435 (BCN): https://www.bcn.cl/leychile/navegar?idNorma=1162908
+- Campaña ciudadana: https://www.siguelacorrientedelagua.cl/
+- Portal SNIA/DGA: https://snia.mop.gob.cl/
 
 ## Cómo contactar
 
