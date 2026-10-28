@@ -356,7 +356,7 @@ a:hover { color: var(--azul-hover); }
 .partners-logos img {
   width: auto;
   height: 44px;
-  max-width: 150px;
+  max-width: 200px;
   object-fit: contain;
   object-position: center;
   background: transparent;
@@ -364,6 +364,12 @@ a:hover { color: var(--azul-hover); }
   border-radius: 0;
   box-shadow: none;
   filter: none;
+}
+
+/* DGA: lockup horizontal más ancho para que no se pierda */
+.partners-logos img[src*="dga.png"] {
+  height: 48px;
+  max-width: 240px;
 }
 
 .partners-logos a:hover {
@@ -1135,7 +1141,12 @@ a:hover { color: var(--azul-hover); }
 
   .partners-logos img {
     height: 48px;
-    max-width: 170px;
+    max-width: 200px;
+  }
+
+  .partners-logos img[src*="dga.png"] {
+    height: 52px;
+    max-width: 260px;
   }
 
   .bento { grid-template-columns: repeat(2, 1fr); }
