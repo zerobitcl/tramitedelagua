@@ -41,7 +41,7 @@ const PHONE_NUMBER = "+56900000000"; // Teléfono visible / tel: (mismo número 
       if (textTarget) {
         textTarget.textContent = label;
       } else if (el.hasAttribute("data-phone-full")) {
-        el.textContent = "¿Prefiere hablar por teléfono? Llamar ahora al " + label;
+        el.textContent = "📞 ¿Prefiere llamar? " + label;
       }
     });
   }
