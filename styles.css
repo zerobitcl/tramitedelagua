@@ -279,6 +279,140 @@ a:hover { color: var(--azul-hover); }
   color: #CBD5E1;
 }
 
+/* Destacado vía administrativa (sin contraste de precio) */
+.price-hook {
+  margin: 0 0 1.15rem;
+  padding: 1rem 1.1rem;
+  background: rgba(37, 211, 102, 0.12);
+  border: 1px solid rgba(37, 211, 102, 0.35);
+  border-radius: 10px;
+}
+
+.price-hook-main {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 800;
+  line-height: 1.35;
+  color: #FFFFFF;
+}
+
+.price-hook-main em {
+  font-style: normal;
+  color: #4ADE80;
+}
+
+.section-focus .focus-lead {
+  margin: -0.35rem 0 1.5rem;
+  max-width: 58ch;
+  font-size: 1.05rem;
+  color: var(--secundario);
+}
+
+.tramite-table-wrap {
+  margin-top: 1.75rem;
+  overflow-x: auto;
+  border: 1px solid var(--borde);
+  border-radius: var(--radio);
+  background: var(--blanco);
+  box-shadow: var(--sombra-sm);
+}
+
+.tramite-table {
+  width: 100%;
+  min-width: 560px;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+
+.tramite-table th,
+.tramite-table td {
+  padding: 0.85rem 1rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--borde);
+}
+
+.tramite-table th {
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+  background: var(--fondo-alt);
+}
+
+.tramite-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.tramite-table td:first-child {
+  font-weight: 700;
+  color: var(--titulo);
+  white-space: nowrap;
+}
+
+.critical-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 1rem;
+}
+
+.critical-grid li {
+  padding: 1.15rem 1.25rem;
+  background: var(--blanco);
+  border: 1px solid var(--borde);
+  border-left: 4px solid #DC2626;
+  border-radius: var(--radio-sm);
+}
+
+.critical-grid strong {
+  display: block;
+  margin-bottom: 0.35rem;
+  color: var(--titulo);
+  font-size: 1.02rem;
+}
+
+.critical-grid span {
+  color: var(--secundario);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+@media (min-width: 720px) {
+  .critical-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.bento.bento-single {
+  grid-template-columns: 1fr;
+  max-width: 720px;
+}
+
+.bento.bento-single .bento-card {
+  padding: 1.5rem 1.6rem;
+}
+
+@media (min-width: 720px) {
+  .bento.bento-single .bento-card {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    grid-template-rows: auto auto auto;
+    column-gap: 1.1rem;
+    align-items: start;
+  }
+
+  .bento.bento-single .bento-icon {
+    grid-row: 1 / span 3;
+  }
+
+  .bento.bento-single .service-pick {
+    justify-self: start;
+  }
+}
+
 /* Barra "Trabajamos ante" + logos (franja clara, fuera del azul) */
 .partners {
   background: #F8FAFC;

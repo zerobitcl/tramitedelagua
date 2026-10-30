@@ -51,12 +51,12 @@ const WHATSAPP_NUMBER = "56900000000"; // Solo se usa tras enviar el formulario 
 
   function buildMessage(data) {
     return (
-      "Hola, necesito asesoría con un trámite de aguas.\n\n" +
+      "Hola, necesito el trámite obligatorio CPA/CBR (regularización, perfeccionamiento o inscripción de derechos de aguas).\n\n" +
       "*Nombre:* " + data.nombre + "\n" +
       "*Comuna/Sector:* " + data.ubicacion + "\n" +
-      "*Trámite:* " + data.tramite + "\n" +
+      "*Tipo según título:* " + data.tramite + "\n" +
       "*Situación actual:* " + data.situacion + "\n\n" +
-      "Quedo atento(a) para revisar mi caso."
+      "Quedo atento(a) para diagnosticar mi caso."
     );
   }
 

@@ -1,7 +1,7 @@
 {
   "name": "Trámite del Agua Chile",
   "short_name": "Trámite Aguas",
-  "description": "Regularización, perfeccionamiento e inscripción de derechos de aprovechamiento de aguas ante DGA y Conservador de Bienes Raíces.",
+  "description": "Regularización e inscripción de acciones y derechos de aguas que usted ya tiene, ante DGA y Conservador. Sin necesidad de abogado.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
