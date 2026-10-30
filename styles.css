@@ -142,23 +142,6 @@ a:hover { color: var(--azul-hover); }
 
 .site-nav a:hover { background: var(--fondo-alt); }
 
-.nav-phone {
-  display: none;
-  padding: 0.4rem 0.65rem;
-  font-size: 0.85rem;
-  font-weight: 700;
-  color: var(--azul);
-  border: 1px solid var(--borde);
-  border-radius: 8px;
-  white-space: nowrap;
-}
-
-.nav-phone:hover {
-  border-color: var(--azul-hidrico);
-  color: var(--azul-hidrico);
-  background: var(--fondo-alt);
-}
-
 /* ---------- Buttons ---------- */
 .btn {
   display: inline-flex;
@@ -502,30 +485,6 @@ a:hover { color: var(--azul-hover); }
   background: #FEF2F2;
   border: 1px solid #FECACA;
   border-radius: var(--radio-sm);
-}
-
-/* Botón teléfono secundario real */
-.btn-phone {
-  display: flex;
-  width: 100%;
-  justify-content: center;
-  align-items: center;
-  gap: 8px;
-  padding: 12px;
-  margin-top: 10px;
-  border: 2px solid #0A2540;
-  border-radius: 8px;
-  color: #0A2540;
-  font-weight: 700;
-  font-size: 0.95rem;
-  text-decoration: none;
-  background: #F8FAFC;
-  transition: background 0.2s ease, color 0.2s ease;
-}
-
-.btn-phone:hover {
-  background: #0A2540;
-  color: #FFFFFF;
 }
 
 /* Micro-línea unificada filtro + privacidad */
@@ -1117,7 +1076,6 @@ a:hover { color: var(--azul-hover); }
 /* ---------- Desktop ---------- */
 @media (min-width: 768px) {
   .site-nav { display: flex; }
-  .nav-phone { display: inline-flex; }
 
   .hero { padding: 2.5rem 0 3.25rem; }
 

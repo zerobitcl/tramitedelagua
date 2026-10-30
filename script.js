@@ -1,5 +1,4 @@
-const WHATSAPP_NUMBER = "56900000000"; // Reemplace por su número real (ej: 56912345678)
-const PHONE_NUMBER = "+56900000000"; // Teléfono visible / tel: (mismo número con +)
+const WHATSAPP_NUMBER = "56900000000"; // Solo se usa tras enviar el formulario (no se muestra en el sitio)
 
 (function () {
   "use strict";
@@ -23,30 +22,6 @@ const PHONE_NUMBER = "+56900000000"; // Teléfono visible / tel: (mismo número 
       window.gtag("event", eventName, payload || {});
     }
   }
-
-  function formatPhoneDisplay(phone) {
-    var digits = String(phone).replace(/\D/g, "");
-    if (digits.length === 11 && digits.indexOf("56") === 0) {
-      return "+56 " + digits.slice(2, 3) + " " + digits.slice(3, 7) + " " + digits.slice(7);
-    }
-    return phone;
-  }
-
-  function syncPhoneLinks() {
-    var href = "tel:" + PHONE_NUMBER.replace(/\s/g, "");
-    var label = formatPhoneDisplay(PHONE_NUMBER);
-    document.querySelectorAll("[data-phone-link]").forEach(function (el) {
-      el.setAttribute("href", href);
-      var textTarget = el.querySelector("[data-phone-text]");
-      if (textTarget) {
-        textTarget.textContent = label;
-      } else if (el.hasAttribute("data-phone-full")) {
-        el.textContent = "📞 ¿Prefiere llamar? " + label;
-      }
-    });
-  }
-
-  syncPhoneLinks();
 
   if (yearEl) yearEl.textContent = String(new Date().getFullYear());
 
@@ -124,14 +99,6 @@ const PHONE_NUMBER = "+56900000000"; // Teléfono visible / tel: (mismo número 
       field.addEventListener("change", clearErrors);
     });
   }
-
-  document.querySelectorAll("[data-phone-link]").forEach(function (el) {
-    el.addEventListener("click", function () {
-      trackConversion("click_phone_call", {
-        pagina_origen: window.location.pathname
-      });
-    });
-  });
 
   function glowForm() {
     if (!formCard) return;

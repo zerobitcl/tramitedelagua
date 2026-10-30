@@ -3,7 +3,7 @@
 > Asesoría y gestión especializada en regularización, perfeccionamiento e inscripción de derechos de aprovechamiento de aguas en Chile ante la Dirección General de Aguas (DGA) y el Conservador de Bienes Raíces (CBR), conforme al Código de Aguas y la Ley 21.435.
 
 Sitio nacional: https://tudominio.cl/
-Contacto: https://tudominio.cl/#cotizador (WhatsApp) · Teléfono configurable en el sitio
+Contacto: https://tudominio.cl/#cotizador (solo formulario → WhatsApp)
 
 ## Resumen ejecutivo
 
@@ -56,4 +56,4 @@ trámite del agua, papeles de agua, inscribir pozo Ovalle, regularización derec
 
 ## Cómo contactar
 
-Formulario en cada página (nombre, comuna/sector, trámite, situación). Orientación por WhatsApp o teléfono. Datos personales bajo Ley 19.628.
+Formulario en cada página (nombre, comuna/sector, trámite, situación). El contacto se abre por WhatsApp solo tras completar los datos (filtro de leads). Sin teléfono público. Datos personales bajo Ley 19.628.
