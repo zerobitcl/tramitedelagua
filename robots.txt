@@ -1,5 +1,5 @@
 # Trámite del Agua Chile — robots.txt
-# Dominio placeholder: https://tudominio.cl
+# https://tramitedelagua.cl
 
 User-agent: *
 Allow: /
@@ -28,7 +28,7 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://tudominio.cl/sitemap.xml
+Sitemap: https://tramitedelagua.cl/sitemap.xml
 
 # Índice para modelos de lenguaje (GEO)
-# https://tudominio.cl/llms.txt
+# https://tramitedelagua.cl/llms.txt
