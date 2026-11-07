@@ -29,6 +29,6 @@ Art. 170 bis permite perfeccionamiento administrativo ante DGA (sin tribunales c
 
 ## Páginas locales (Coquimbo)
 
-- Limarí / Ovalle: tramite-agua-ovalle-limari.html
-- Elqui / La Serena: tramite-agua-la-serena-elqui.html
-- Choapa / Illapel: tramite-agua-illapel-choapa.html
+- Limarí / Ovalle: https://tramitedelagua.cl/tramite-agua-ovalle-limari
+- Elqui / La Serena: https://tramitedelagua.cl/tramite-agua-la-serena-elqui
+- Choapa / Illapel: https://tramitedelagua.cl/tramite-agua-illapel-choapa
