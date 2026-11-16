@@ -735,6 +735,54 @@ a:hover { color: var(--azul-hover); }
 }
 
 /* ---------- Proceso 01 02 03 ---------- */
+.section-inscripcion {
+  background: var(--fondo-alt);
+}
+
+.inscripcion-steps {
+  list-style: none;
+  margin: 0 0 1.25rem;
+  padding: 0;
+  display: grid;
+  gap: 1rem;
+  counter-reset: insc;
+}
+
+.inscripcion-steps li {
+  position: relative;
+  padding: 1rem 1.1rem 1rem 3.25rem;
+  background: var(--blanco);
+  border: 1px solid var(--borde);
+  border-radius: var(--radio);
+  box-shadow: var(--sombra-sm);
+  counter-increment: insc;
+}
+
+.inscripcion-steps li::before {
+  content: counter(insc, decimal-leading-zero);
+  position: absolute;
+  left: 0.9rem;
+  top: 1rem;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  color: var(--accent, #0066CC);
+}
+
+.inscripcion-steps strong {
+  display: block;
+  margin-bottom: 0.35rem;
+  color: var(--titulo);
+  font-size: 1.02rem;
+}
+
+.inscripcion-steps span {
+  display: block;
+  color: var(--secundario);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
 .section-process { background: var(--blanco); }
 
 .steps {

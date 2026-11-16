@@ -23,6 +23,38 @@ const WHATSAPP_NUMBER = "56900000000"; // Solo se usa tras enviar el formulario 
     }
   }
 
+  function isWhatsAppUrl(href) {
+    if (!href) return false;
+    return /wa\.me|api\.whatsapp\.com/i.test(href);
+  }
+
+  function isTelUrl(href) {
+    if (!href) return false;
+    return /^tel:/i.test(href);
+  }
+
+  // Key events: click_whatsapp / phone_click en cualquier enlace del DOM
+  document.addEventListener(
+    "click",
+    function (e) {
+      var link = e.target && e.target.closest ? e.target.closest("a[href]") : null;
+      if (!link) return;
+      var href = link.getAttribute("href") || "";
+      if (isWhatsAppUrl(href)) {
+        trackConversion("click_whatsapp", {
+          link_url: href,
+          pagina_origen: window.location.pathname
+        });
+      } else if (isTelUrl(href)) {
+        trackConversion("phone_click", {
+          link_url: href,
+          pagina_origen: window.location.pathname
+        });
+      }
+    },
+    true
+  );
+
   if (yearEl) yearEl.textContent = String(new Date().getFullYear());
 
   function clearErrors() {
@@ -66,6 +98,11 @@ const WHATSAPP_NUMBER = "56900000000"; // Solo se usa tras enviar el formulario 
       WHATSAPP_NUMBER +
       "?text=" +
       encodeURIComponent(message);
+    trackConversion("click_whatsapp", {
+      link_url: url.split("?")[0],
+      metodo: "form_redirect",
+      pagina_origen: window.location.pathname
+    });
     window.open(url, "_blank", "noopener,noreferrer");
   }
 
@@ -83,7 +120,9 @@ const WHATSAPP_NUMBER = "56900000000"; // Solo se usa tras enviar el formulario 
         situacion: form.situacion.value,
         pagina_origen: window.location.pathname
       };
-      trackConversion("generate_lead_whatsapp", payload);
+      // Key events de conversión (marcarlos en GA4 → Admin → Eventos clave)
+      trackConversion("generate_lead", payload);
+      trackConversion("form_submit", payload);
       openWhatsApp(
         buildMessage({
           nombre: form.nombre.value.trim(),
