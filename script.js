@@ -1,3 +1,9 @@
+/*
+ * Medición GA4 (G-WY301LWY4E). No cambiar el ID de medición.
+ * Instrucción operativa: en Google Analytics 4 (GA4 → Administrador → Eventos),
+ * marcar generate_lead, click_whatsapp y phone_click como Eventos clave (Key Events).
+ * form_submit se despacha junto con generate_lead en el envío del formulario.
+ */
 const WHATSAPP_NUMBER = "56900000000"; // Solo se usa tras enviar el formulario (no se muestra en el sitio)
 
 (function () {
